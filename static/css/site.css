@@ -23,5 +23,5 @@
     background-size: cover;
 }
 nav.navbar {
-    display: none;
+    background-color: rgba(0, 0, 0, 0.85);
 }
